@@ -1035,6 +1035,7 @@ markers:
   - {type: line-break, offset: 2296, content: '', id: ZHSJ__dup27187, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: line-break, offset: 2296, content: '', id: ZHSJ__dup27188, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: punctuation, offset: 2298, content: (, id: KR2a0015_ZHSJ_081-bkkpn477}
+  - {type: voice, offset: 2298, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 2301, content: ), id: KR2a0015_ZHSJ_081-bkkpn478}
   - {type: xml-element, offset: 2301, content: '', id: KR2a0015_ZHSJ_081-bkkxmlele34, name: p, role: close}
   - {type: xml-element, offset: 2301, content: '', id: KR2a0015_ZHSJ_081-bkkxmlele35, name: p, role: open}
@@ -2451,6 +2452,7 @@ markers:
   - {type: 'tls:seg', offset: 5482, content: '', id: KR2a0015_ZHSJ_081-d81p39s73}
   - {type: line-break, offset: 5482, content: '', id: ZHSJ__dup27298, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: punctuation, offset: 5484, content: (, id: KR2a0015_ZHSJ_081-bkkpn1150}
+  - {type: voice, offset: 5484, length: 11, name: note, id: n2}
   - {type: indent, offset: 5487, content: 　, id: KR2a0015_ZHSJ_081-bkkind1}
   - {type: indent, offset: 5489, content: 　, id: KR2a0015_ZHSJ_081-bkkind2}
   - {type: indent, offset: 5491, content: 　, id: KR2a0015_ZHSJ_081-bkkind3}
@@ -4050,6 +4052,7 @@ markers:
   - {type: 'tls:seg', offset: 9186, content: '', id: KR2a0015_ZHSJ_081-d81p69s11}
   - {type: line-break, offset: 9186, content: '', id: ZHSJ__dup27426, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: punctuation, offset: 9188, content: (, id: KR2a0015_ZHSJ_081-bkkpn1917}
+  - {type: voice, offset: 9188, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 9190, content: ), id: KR2a0015_ZHSJ_081-bkkpn1918}
   - {type: xml-element, offset: 9190, content: '', id: KR2a0015_ZHSJ_081-bkkxmlele138, name: p, role: close}
   - {type: xml-element, offset: 9190, content: '', id: KR2a0015_ZHSJ_081-bkkxmlele139, name: p, role: open}
@@ -4641,4 +4644,4 @@ markers:
   - {type: xml-element, offset: 10548, content: '', id: KR2a0015_ZHSJ_081-d81n1, name: note, role: open, attrs: {'xml:id': KR2a0015_ZHSJ_081-d81n1, type: text-crit}}
   - {type: xml-element, offset: 10548, content: '', id: KR2a0015_ZHSJ_081-d81n1_end, name: note, role: close, attrs: {'xml:id': KR2a0015_ZHSJ_081-d81n1, type: text-crit}}
   back: []
-hash: sha256:48b67d4f4c94ce5401b88fb3605e9c10845a40ac6d78ff01c2d525354578ef6d
+hash: sha256:8e9803bf61aff5df7473de45eed5305325151c374b134d95f57151284e5d6010
